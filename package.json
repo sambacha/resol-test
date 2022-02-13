@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/sambacha/resol-test/issues"
   },
-  "homepage": "https://github.com/sambacha/resol-test#readme"
+  "homepage": "https://github.com/sambacha/resol-test#readme",
+  "dependencies": {
+    "@uniswap/lib": "^4.0.1-alpha",
+    "@uniswap/v3-core": "^1.0.1",
+    "@uniswap/v3-periphery": "^1.4.0"
+  }
 }
